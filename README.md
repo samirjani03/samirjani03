@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi, I'm Samir jani</h1>
+<h1 align="center">Hi👋, I'm Samir jani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://i.gifer.com/3AyY.gif" alt="Coding">
 I'm currently working on DSA<br>I'm currently learning web development<br>I can cook but I accept the fact that ladkiyo se achha koi nhi **pakata** 😛 
