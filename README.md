@@ -9,6 +9,12 @@
 
 - 🌱 I’m currently learning **AI Agents, MCP, RAG**
 
+- 👨‍💻 All of my projects are available <a href="https://portfolio-website-lovat-nu.vercel.app/" target="_blank">here</a>
+
+- 📫 How to reach me: **samirjani687@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hhWq0S-QyzX1SL_Y0q2PwkdN9je8upwD/view?usp=drive_link" target="_blank">here</a>
+
 - 👨‍💻 All of my projects are available at [https://portfolio-website-lovat-nu.vercel.app/](https://portfolio-website-lovat-nu.vercel.app/)
 
 - 📫 How to reach me **samirjani687@gmail.com**
