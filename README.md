@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://dev.to/samir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samir03" height="30" width="40" /></a>
 <a href="https://twitter.com/samir_jani003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samir_jani003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samir jani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir jani" height="30" width="40" /></a>
-<a href="https://instagram.com/samirjani03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirjani03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samir-jani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir jani" height="30" width="40" /></a>
+<a href="https://instagram.com/samir.calisthenics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirjani03" height="30" width="40" /></a>
 <a href="https://medium.com/@janisamir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janisamir03" height="30" width="40" /></a>
 </p>
 
