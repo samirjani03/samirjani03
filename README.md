@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **samirjani687@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hhWq0S-QyzX1SL_Y0q2PwkdN9je8upwD/view?usp=drive_link" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ePokhCi-uOlaa-CAkzz9bOB9c_whLIbh/view?usp=drive_link" target="_blank">here</a>
 
 - ⚡ Fun fact **I only build projects which has Zero cost 😁**
 
